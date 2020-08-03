@@ -2,7 +2,7 @@
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
-- 🧑🏻‍💻 Programmer
+- 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Open-source software developer
 - ⚡ Go, Java, Python, Rust ...
 
