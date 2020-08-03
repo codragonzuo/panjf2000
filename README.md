@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://andypan.site">Andy Pan</a>!</h1>
 
 - 🇨🇳 Chinese
-- 😄 Pronouns: "he" | "his"
+- 👔 Pronouns: "He" | "His"
 - 🧑🏻‍💻 Programmer
 - 🌏 Open-source software developer
 - ⚡ Go, Java, Python, Rust ...
