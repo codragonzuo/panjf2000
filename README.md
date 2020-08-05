@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://andypan.site">Personal Homepage</a></strong> |
+  <strong><a href="https://taohuawu.club/">Blog</a></strong> |
   <strong><a href="https://twitter.com/_andy_pan">Twitter</a></strong> |
   <strong><a href="https://www.facebook.com/andy.pan.jianfeng">FaceBook</a></strong> |
   <strong><a href="https://www.instagram.com/panjf2000/">Instagram</a></strong> |
