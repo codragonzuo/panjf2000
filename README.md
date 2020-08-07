@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="bg.gif" />
+  <img align="center" src="https://raw.githubusercontent.com/panjf2000/panjf2000/master/bg.gif" />
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=algolia" alt="Andy's github stats" />
