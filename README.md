@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=algolia" alt="Andy's github stats" />
 
-<h3 align="center">Hi, I'm <a href="https://andypan.site">Andy Pan</a> 🎉</h1>
+<h2 align="center">Hi, I'm <a href="https://andypan.site">Andy Pan</a> 🎉</h1>
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
