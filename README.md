@@ -1,10 +1,6 @@
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/panjf2000/panjf2000/master/bg.gif" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=vue" alt="Andy's github stats" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=algolia" alt="Andy's github stats" />
-
-<h2 align="center">Hi, I'm <a href="https://andypan.site">Andy Pan</a> 🎉</h1>
+### Hi there, I'm [Andy Pan](https://andypan.site) 🎉
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
@@ -12,7 +8,4 @@
 - 🌏 Open-source software developer
 - ⚡ Go, Java, Python, Rust ...
 
-
-<!-- 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjf2000&show_icons=true&theme=cobalt&layout=compact" alt="Top Langs" />
--->
+<img src="https://github-profile-trophy.vercel.app/?username=panjf2000&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
