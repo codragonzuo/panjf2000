@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=vue" alt="Andy's github stats" />
 
-### Hi there, I'm [Andy Pan](https://andypan.site) 🎉
+### Hi there, I'm [Andy Pan](https://andypan.me) 🎉
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
